@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Svetlana! 
 
-<img src="./gh-header-image_v1.jpg" alt="Svetlana Shkarina">
+<img src="./gh-header-image_v2.jpg" alt="Svetlana Shkarina">
 
 I'm a former physicist and materials scientist :woman_scientist: who has a great passion for frontend development :woman_technologist: and wants to become a part of a tech community!
 
