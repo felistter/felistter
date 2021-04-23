@@ -17,8 +17,11 @@ When I'm not coding you can find me drawing, playing piano, jogging, or explorin
   
 <!-- Email -->
   <a href="mailto:svetlana.n.shkarina@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-svetlana.n.shkarina@gmail.com-20b2aa?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/EMAIL-svetlana.n.shkarina@gmail.com-686e6a?style=for-the-badge"/>
   </a>
   
+<!-- Personal website -->
 
-
+<a href="https://shkarina.me/">
+    <img src="https://img.shields.io/badge/-SVETLANA%20SHKARINA-dd9d83?style=for-the-badge&logo=SVG&logoColor=white"/>
+  </a>
