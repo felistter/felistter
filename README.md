@@ -8,8 +8,7 @@ During my scientific career, I applied my programming skills to make life easier
 
 I am in love with the feeling of satisfaction when you create a thing from scratch to a full-fledged application and can see how it serves the conceived purposes. I enjoy working with :older_man: HTML, CSS, as well as :baby: JavaScript, ReactJS, NextJS technologies.
 
-When I'm not coding you can find me drawing, playing piano, jogging, or exploring Berlin! I also have a super-duper <a href="https://www.instagram.com/tonystar.cat">cat</a>, which I adore!
-
+When I'm not coding you can find me drawing, playing piano, jogging, or exploring Berlin!
 <!-- Personal website -->
 
 <a href="https://shkarina.me/">
