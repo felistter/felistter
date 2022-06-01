@@ -1,5 +1,3 @@
-### Hi there, I'm Svetlana! 
-
 <img src="./gh-header-image_v2.jpg" alt="Svetlana Shkarina">
 
 I'm a former physicist and materials scientist :woman_scientist: who has a great passion for frontend development :woman_technologist: and wants to become a part of a tech community!
@@ -25,4 +23,3 @@ When I'm not coding you can find me drawing, playing piano, jogging, or explorin
     <img src="https://img.shields.io/badge/svetlana.n.shkarina@gmail.com-686e6a?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
   
-
