@@ -6,11 +6,6 @@ During my scientific career, I applied my programming skills to make life easier
 
 I am in love with the feeling of satisfaction when you create a thing from scratch to a full-fledged application and can see how it serves the conceived purposes. I enjoy working with HTML, CSS, as well as JavaScript, ReactJS, NextJS technologies.
 
-<!-- Personal website -->
-
-<a href="https://shkarina.me/">
-    <img src="https://img.shields.io/badge/-SVETLANA%20SHKARINA-dd9d83?style=for-the-badge&logo=SVG&logoColor=white"/>
-  </a>
 
 <!-- LinkedIn Contact -->
   <a href="https://www.linkedin.com/in/svetlana-shkarina-ph-d-84a80658">
