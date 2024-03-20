@@ -1,6 +1,6 @@
 <img src="./gh-header-image_v2.jpg" alt="Svetlana Shkarina">
 
-I'm a former physicist and materials scientist who has a great passion for frontend development and wants to become a part of a tech community!
+I'm a former physicist and materials scientist who has a great passion for software development!
 
 During my scientific career, I applied my programming skills to make life easier by automating routine processes. 
 
